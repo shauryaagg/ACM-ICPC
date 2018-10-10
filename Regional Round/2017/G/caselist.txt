@@ -1,0 +1,12 @@
+1: starting at 900, filling stomach as much as possible till stomach holds 0
+2: Case 1 twice, with 1 calorie in between.
+3: 2000 calories per hour for 100 hours, with 2000 calorie stomach
+4: 2000 calories per hour for 100 hours, with 20 calorie stomach
+5: 2000 calories per hour for 100 hours, with a 20000 calorie stomach
+6: Test for a double skip reset
+7: Don't eat the first thing
+8: Two single skips
+9: Single skip then double skip
+10: Double skip then single skip
+11-20 random cases of 100 courses with 2000 calorie stomach, each course is 1-2100 calories
+21-30 random cases of 100 courses with a random stomach (1-2000 cal), each course is 1-2100 calories.
